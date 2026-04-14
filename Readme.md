@@ -1,10 +1,10 @@
 # MTD Game Controller Firmware
 
-## Firmware Files
-- Firmware.zip - Main firmware file
-- Operation_guide.zip - User manual
+## Package Includes
+- Firmware file (.bin/.zip) - Main firmware for MTD Game Controller
+- Operation Guide - User manual and instructions
 
-## How to use
-1. Download the zip file
-2. Extract to your computer
-3. Follow the user manual inside
+## How to Use
+1. Download the firmware file
+2. Follow the operation guide for installation
+3. Flash the firmware to your device
